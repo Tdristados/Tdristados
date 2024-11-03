@@ -47,20 +47,20 @@
   <a href="https://www.python.org" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/>
   </a>
-  <a href="https://www.cisco.com/c/en/us/products/networking/packet-tracer.html" target="_blank" rel="noreferrer">
+  <a href="https://www.netacad.com/es/cisco-packet-tracer" target="_blank" rel="noreferrer">
     <img src="https://www.vectorlogo.zone/logos/cisco/cisco-icon.svg" alt="cisco packet tracer" width="40" height="40"/>
   </a>
   <a href="https://caldera.mitre.org/" target="_blank" rel="noreferrer">
-    <img src="https://www.mitre.org/sites/all/themes/mitre/logo.svg" alt="mitre caldera" width="40" height="40"/>
+    <img src="https://caldera.mitre.org/img/caldera-logo.png" alt="mitre caldera" width="40" height="40"/>
   </a>
   <a href="https://www.cryptool.org/en/" target="_blank" rel="noreferrer">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/1/1e/CrypTool_Logo.png" alt="cryptool" width="40" height="40"/>
+    <img src="https://ofilibre.urjc.es//images/fichas/cryptool/logo.png" alt="cryptool" width="40" height="40"/>
   </a>
   <a href="https://jupyter.org/" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/jupyter/jupyter-original.svg" alt="jupyter" width="40" height="40"/>
   </a>
   <a href="https://www.microsoft.com/en-us/microsoft-365/excel" target="_blank" rel="noreferrer">
-    <img src="https://www.vectorlogo.zone/logos/microsoft_excel/microsoft_excel-icon.svg" alt="excel" width="40" height="40"/>
+    <img src="https://upload.wikimedia.org/wikipedia/commons/3/34/Microsoft_Office_Excel_%282019%E2%80%93present%29.svg" alt="excel" width="40" height="40"/>
   </a>
   <a href="https://www.r-project.org/" target="_blank" rel="noreferrer">
     <img src="https://www.r-project.org/logo/Rlogo.svg" alt="r" width="40" height="40"/>
